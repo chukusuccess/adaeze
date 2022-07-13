@@ -404,7 +404,7 @@ ol {
 
 .main-menu ul li a {
   display: block;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 600;
   color: #b2b2b2;
   -webkit-transition: 0.3s;
@@ -420,7 +420,7 @@ ol {
 
 .main-menu ul li a:hover,
 .main-menu ul li a.active {
-  color: #2916e0;
+  color: #e09916;
 }
 
 .sm-footer {
